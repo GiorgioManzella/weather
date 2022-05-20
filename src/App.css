@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+#searchNav {
+  width: 400px;
+  color: red;
+}
+
+#mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 20px;
+  margin-top: 20px;
+}
+
+.box {
+  width: 400px;
+  height: 800px;
+  border: solid;
+  border-color: red;
+}
